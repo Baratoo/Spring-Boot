@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.barato.spring_boot.models.Cliente;
+import br.com.barato.spring_boot.model.entities.Cliente;
 
 @RestController
 @RequestMapping("/clientes") //Define o caminnho para toda a página

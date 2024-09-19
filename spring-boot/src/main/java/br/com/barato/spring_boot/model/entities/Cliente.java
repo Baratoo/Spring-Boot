@@ -1,4 +1,4 @@
-package br.com.barato.spring_boot.models;
+package br.com.barato.spring_boot.model.entities;
 
 public class Cliente {
 
